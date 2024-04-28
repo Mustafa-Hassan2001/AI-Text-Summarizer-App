@@ -1,0 +1,67 @@
+{
+  "_from": "@types/serve-static@ts4.8",
+  "_id": "@types/serve-static@1.15.7",
+  "_inBundle": false,
+  "_integrity": "sha512-W8Ym+h8nhuRwaKPaDw34QUkwsGi6Rc4yYqvKFo5rm2FUEhCFbzVWrxXUxuKK8TASjWsysJY0nsmNCGhCOIsrOw==",
+  "_location": "/@types/serve-static",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/serve-static@ts4.8",
+    "name": "@types/serve-static",
+    "escapedName": "@types%2fserve-static",
+    "scope": "@types",
+    "rawSpec": "ts4.8",
+    "saveSpec": null,
+    "fetchSpec": "ts4.8"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER",
+    "/@types/express"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/serve-static/-/serve-static-1.15.7.tgz",
+  "_shasum": "22174bbd74fb97fe303109738e9b5c2f3064f714",
+  "_spec": "@types/serve-static@ts4.8",
+  "_where": "/home/runner/AI-Text-Summarizer-App-Starter-Template/.cache/typescript/4.8",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Uros Smolnik",
+      "url": "https://github.com/urossmolnik"
+    },
+    {
+      "name": "Linus Unnebäck",
+      "url": "https://github.com/LinusU"
+    },
+    {
+      "name": "Devansh Jethmalani",
+      "url": "https://github.com/devanshj"
+    }
+  ],
+  "dependencies": {
+    "@types/http-errors": "*",
+    "@types/node": "*",
+    "@types/send": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for serve-static",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/serve-static",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/serve-static",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/serve-static"
+  },
+  "scripts": {},
+  "typeScriptVersion": "4.7",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "781872d0ec274d5e3360acd4087e25d9d8440401b99181fe8cd1fc968aa78b14",
+  "version": "1.15.7"
+}

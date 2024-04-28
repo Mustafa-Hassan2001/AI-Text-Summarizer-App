@@ -1,0 +1,54 @@
+{
+  "_from": "@types/merge-descriptors@ts4.8",
+  "_id": "@types/merge-descriptors@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-ZhU/HNM9R75TO8PBn0+zDi7tbYEygeraTjDHAkGpgFFKKEj/Al4RysG+oWyrRusPRDUvctaK+SYrw1m2SdLNNQ==",
+  "_location": "/@types/merge-descriptors",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/merge-descriptors@ts4.8",
+    "name": "@types/merge-descriptors",
+    "escapedName": "@types%2fmerge-descriptors",
+    "scope": "@types",
+    "rawSpec": "ts4.8",
+    "saveSpec": null,
+    "fetchSpec": "ts4.8"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/merge-descriptors/-/merge-descriptors-1.0.3.tgz",
+  "_shasum": "849eb4a5c0fa534e1b337f715b51ac22c1be52cd",
+  "_spec": "@types/merge-descriptors@ts4.8",
+  "_where": "/home/runner/AI-Text-Summarizer-App-Starter-Template/.cache/typescript/4.8",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Zhiyuan Wang",
+      "url": "https://github.com/danny8002"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for merge-descriptors",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/merge-descriptors",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/merge-descriptors",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/merge-descriptors"
+  },
+  "scripts": {},
+  "typeScriptVersion": "4.5",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "b808c6f5927aace71a88e58e0aaf0d89b3ca3deefb45318a871de783da86d0d8",
+  "version": "1.0.3"
+}

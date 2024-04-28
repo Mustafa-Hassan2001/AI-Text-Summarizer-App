@@ -1,0 +1,2 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit:v8-20240329-787bc7d","time":"2024-04-28T13:42:51Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mime","time":"2024-04-28T13:42:52Z"}
